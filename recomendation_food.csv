@@ -1,0 +1,80 @@
+interval,type,food_name
+breakfast,reduce,Oatmeal
+breakfast,reduce,Greek Yogurt
+breakfast,reduce,Egg Whites
+breakfast,reduce,Smoothies
+breakfast,reduce,Whole Grain Toast with Avocado
+breakfast,reduce,multigrain roti
+breakfast,reduce,oats upma
+breakfast,reduce,ven pongal
+breakfast,reduce,methi thalipeeth
+breakfast,reduce,chole
+breakfast,reduce,vada pav
+breakfast,reduce,rava sheera
+breakfast,reduce,idli
+breakfast,reduce,dosa
+breakfast,gain,Nut Butter and Banana Toast
+breakfast,gain,Whole Milk Yogurt Parfait
+breakfast,gain,Scrambled Eggs with Cheese and Avocado
+breakfast,gain,Oatmeal with Nut Butter and Seeds
+breakfast,gain,Smoothie with Protein Powder
+breakfast,gain,Whole Grain Pancakes with Fruit and Greek Yogurt
+breakfast,gain,Breakfast Burrito
+breakfast,gain,High-Calorie Muffins or Breakfast Bars
+breakfast,gain,French Toast with Nutella and Berries
+breakfast,gain,"Breakfast Bowl with Quinoa, Nuts, and Coconut"
+breakfast,gain,Bagel with Cream Cheese and Smoked Salmon
+breakfast,gain,Protein-Packed Breakfast Sandwich
+breakfast,gain,Homemade Breakfast Burrito
+breakfast,gain,Granola with Full-Fat Milk or Yogurt
+afternoon,reduce,Green Salad with Grilled Chicken
+afternoon,reduce,Vegetable Soup
+afternoon,reduce,Quinoa Salad
+afternoon,reduce,Tuna Salad Wrap
+afternoon,reduce,Stir-Fried Vegetables with Tofu
+afternoon,reduce,Hummus and Veggie Plate
+afternoon,reduce,Greek Yogurt with Berries
+afternoon,reduce,Cottage Cheese and Fruit
+afternoon,gain,Trail Mix
+afternoon,gain,Nut Butter and Banana Sandwich
+afternoon,gain,Cheese and Crackers
+afternoon,gain,Smoothie with Nut Butter
+afternoon,gain,Avocado Toast with Eggs
+afternoon,gain,Greek Yogurt Parfait with Granola and Honey
+afternoon,gain,Energy Bars or Protein Bars
+afternoon,gain,Hummus and Veggie Platter with Pita Bread
+afternoon,gain,Peanut Butter and Jelly Sandwich
+afternoon,gain,Rice Cakes with Nut Butter and Banana Slices
+afternoon,gain,Yogurt and Nut Butter Dip with Apple Slices
+night,reduce,Grilled Chicken Salad
+night,reduce,Vegetable Stir-Fry
+night,reduce,Zucchini Noodles with Marinara Sauce
+night,reduce,Fish Tacos with Slaw
+night,reduce,Egg White Omelet
+night,reduce,Vegetable Soup
+night,reduce,Stuffed Bell Peppers
+night,reduce,Tofu and Vegetable Stir-Fry
+night,reduce,Grilled Shrimp Skewers with Vegetables
+night,reduce,Mushroom and Spinach Quinoa Bowl
+night,reduce,Cauliflower Fried Rice
+night,reduce,Caprese Salad
+night,reduce,Salmon and Asparagus Foil Packets
+night,reduce,Turkey and Vegetable Lettuce Wraps
+night,reduce,Stuffed Portobello Mushrooms
+night,gain,Creamy Chicken Alfredo Pasta
+night,gain,Beef and Vegetable Stir-Fry with Rice
+night,gain,Loaded Baked Potatoes
+night,gain,Homemade Beef and Bean Burritos
+night,gain,Cheesy Baked Chicken Parmesan
+night,gain,Beef and Bean Chili with Cornbread
+night,gain,Creamy Mushroom Risotto
+night,gain,Sausage and Pepperoni Pizza
+night,gain,Pulled Pork Sandwiches
+night,gain,Beef Stroganoff
+night,gain,Spinach and Ricotta Stuffed Chicken Breast
+night,gain,Vegetarian Lasagna
+night,gain,Homemade Macaroni and Cheese
+night,gain,Chicken and Vegetable Curry with Rice
+night,gain,Loaded Baked Potato Soup
+night,gain,Pasta Carbonara
+night,gain,Creamy Tomato Basil Chicken
